@@ -1,5 +1,4 @@
-# Title:
-# Using Social Media for natural hazard identification
+# Title: Using Social Media for natural hazard identification
 
 ## Aim: 
 
