@@ -25,4 +25,4 @@ Another BERT model- bert-base-uncased was also used and fine tuned using CoNLL-2
 Progress till now:
 We have extracted user location and location from a given tweet,we have placed all of the used code and dataset here.
 
-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
+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
